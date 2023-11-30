@@ -63,6 +63,16 @@ class _BookListPageState extends State<BookListPage> {
             shortDescription:
                 'Description: Set in the roaring twenties,this novel explores the American Dream and its illusions.',
           ),
+          BookCard(
+            coverImage: 'assets/b2.jpg',
+            bookName: 'The Ninth House',
+            authorName: 'Author: F. Scott Fitzgerald',
+            rating: '4.5',
+            price:
+            'Price: 13.99 dollar',
+            shortDescription:
+            'Description: Set in the roaring twenties,this novel explores the American Dream and its illusions.',
+          ),
         ],
       ),
     );
