@@ -63,6 +63,17 @@ class _BookListPageState extends State<BookListPage> {
             shortDescription:
                 'Description: Set in the roaring twenties,this novel explores the American Dream and its illusions.',
           ),
+
+          BookCard(
+            coverImage: 'assets/b3.jpg',
+            bookName: 'Olive,Again',
+            authorName: 'Author: Elizabeth Strout',
+            rating: '4.7',
+            price:
+            'Price: 16.99 dollar',
+            shortDescription:
+            'Description: Set in the roaring twenties,this novel explores the American Dream and its illusions.',
+          ),
         ],
       ),
     );
