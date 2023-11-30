@@ -66,8 +66,8 @@ class _BookListPageState extends State<BookListPage> {
           BookCard(
             coverImage: 'assets/b2.jpg',
             bookName: 'The Ninth House',
-            authorName: 'Author: F. Scott Fitzgerald',
-            rating: '4.5',
+            authorName: 'Author: Leigh Bardugo',
+            rating: '4.4',
             price:
             'Price: 13.99 dollar',
             shortDescription:
