@@ -72,7 +72,7 @@ class _BookListPageState extends State<BookListPage> {
             price:
             'Price: 16.99 dollar',
             shortDescription:
-            'Description: Set in the roaring twenties,this novel explores the American Dream and its illusions.',
+            'Description: My name is Sonod. I love eating people. the American Dream and its illusions.',
           ),
         ],
       ),
